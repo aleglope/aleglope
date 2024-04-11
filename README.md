@@ -1,6 +1,6 @@
 # Hi there, I'm [AGonzL]! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image]([your_banner_image_url_here](https://ibb.co/sKpKnM1))
 
 ## About Me 🚀
 
