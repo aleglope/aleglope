@@ -1,70 +1,159 @@
-<h1 align="center">Hi 👋, I'm Alejandro González López</h1>
+<h1 align="left">Hi 👋! My name is Alejandro González López and I'm a developer from Spain.</h1>
 
-[![DALL-E-2024-04-11-20-01-55-Create-a-banner-that-embodies-technology-and-IT-using-the-provided-ima.webp](https://i.postimg.cc/4xxk97nz/DALL-E-2024-04-11-20-01-55-Create-a-banner-that-embodies-technology-and-IT-using-the-provided-ima.webp)](https://postimg.cc/xch4rdvC)
+###
 
-<p align="center">🌱 I’m currently learning React Three Fiber, Java, ML, Angular.</p>
-<p align="center">📫 How to reach me: <a href="mailto:agonzlopez.11@gmail.com">agonzlopez.11@gmail.com</a></p>
+<br clear="both">
 
-<h3 align="left">Connect with me:</h3>
-<!-- Add your social links here -->
+<img src="https://raw.githubusercontent.com/aleglope/aleglope/output/snake.svg" alt="Snake animation" />
 
-<h3 align="left">Languages and Tools:</h3>
-<h4 align="left">Programming Languages:</h4>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="100"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="100"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> </a>
-</p>
+###
 
-<h4 align="left">Frontend Development:</h4>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="100" height="100"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100" height="100"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="100" height="100"/> </a>
-</p>
+<h4 align="left">🚀 Web Developer & Python Enthusiast | 3D Technology 🌐👨‍💻🔧<br><br>I am a self-taught enthusiast continuously learning in the field of information technology. With a solid grounding in web development and Python, I specialize in creating innovative solutions that drive efficiency and growth. My passion for artificial intelligence and 3D modeling tools motivates me to explore and adopt new technologies, always aiming to enhance my skills and contribute fresh ideas to any team.<br><br>I am currently expanding my capabilities in Python for AI applications and web development, committed to turning ideas into tangible realities. I seek opportunities where I can apply and increase my knowledge in a challenging and collaborative environment.</h4>
 
-<h4 align="left">Backend Development:</h4>
-<p align="left">
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="100" height="100"/> </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="100" height="100"/> </a>
-</p>
+###
 
-<h4 align="left">Database Technology:</h4>
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="100"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="100" height="100"/> </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="100" height="100"/> </a>
-</p>
+<h2 align="left">PROGRAMMING LANGUAGES:</h2>
 
-<h4 align="left">Other Tools:</h4>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="100" height="100"/> </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="100" height="100"/> </a>
-  <!-- Additional tools can be listed here -->
-</p>
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="python logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="java logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="70" alt="cplusplus logo"  />
+</div>
 
+###
 
+<div align="left">
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="70" alt="angularjs logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="70" alt="react logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="70" alt="threejs logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="70" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="70" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="70" alt="tailwindcss logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="70" alt="bootstrap logo"  />
+</div>
 
-## Featured Projects 💻
+###
 
-### [Project 1 Title](project_1_link)
+<h2 align="left">FRONTEND DEVELOPMENT:</h2>
 
-![Project 1 Screenshot](project_1_screenshot_url)
+###
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+<h2 align="left">BACKEND DEVELOPMENT AND DATABASE :</h2>
 
-### [Project 2 Title](project_2_link)
+###
 
-![Project 2 Screenshot](project_2_screenshot_url)
+<div align="left">
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="70" alt="spring logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=flask" height="70" alt="flask logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="70" alt="postgresql logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="70" alt="oracle logo"  />
+</div>
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+###
 
-## Get in Touch 📬
+<h2 align="left">OTHER TOOLS:</h2>
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70" alt="docker logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="70" alt="kubernetes logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="70" alt="jenkins logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="70" alt="azure logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" alt="git logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="70" alt="jira logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vite" height="70" alt="vite logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="70" alt="selenium logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="70" alt="pytest logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="70" alt="figma logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="70" alt="unrealengine logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=blender" height="70" alt="blender logo"  />
+</div>
 
+###
+
+<h2 align="left">scientific stack:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="70" alt="anaconda logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="70" alt="numpy logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="70" alt="pandas logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="70" alt="jupyter logo"  />
+</div>
+
+###
+
+<h2 align="left">OS AND IDEs:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70" alt="linux logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="70" alt="ubuntu logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="70" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="70" alt="intellij logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="70" alt="jetbrains logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="70" alt="npm logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="500" src="https://i.postimg.cc/T3Y26j5b/DALL-E-2024-04-11-22-35-23-A-continuous-banner-design-suitable-for-Git-Hub-integrating-the-Theory.webp"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aleglope&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleglope&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="agonzlopez.11@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/alejandrogonzlopez" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
