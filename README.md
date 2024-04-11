@@ -44,7 +44,7 @@
   <!-- Additional tools can be listed here -->
 </p>
 
-
+<a  href="https://icons8.com/icon/2T6TKY6whzgV/c">C</a> icon by <a href="https://icons8.com">Icons8</a>
 
 
 ## Featured Projects 💻
