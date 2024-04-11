@@ -26,6 +26,10 @@
 
 ###
 
+<h2 align="left">FRONTEND DEVELOPMENT:</h2>
+
+###
+
 <div align="left">
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="70" alt="angularjs logo"  />
   <img width="10" />
@@ -42,9 +46,6 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="70" alt="bootstrap logo"  />
 </div>
 
-###
-
-<h2 align="left">FRONTEND DEVELOPMENT:</h2>
 
 ###
 
