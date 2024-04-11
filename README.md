@@ -12,6 +12,23 @@
 
 ###
 
+<h4 🌐 Improving My English
+Continually working on polishing my English language skills for effective communication in a global environment. 📚🗣️
+
+🔶 Learning Angular & Java with Spring
+Immersing myself in modern web development, acquiring skills in Angular for front-end along with Java and the Spring framework for robust back-end solutions. 🌟💻
+
+🐍 Exploring the Python Scientific Stack
+Delving into Python for data science and scientific computing, mastering tools like NumPy, SciPy, and pandas. 📈🧬
+
+➕ Deepening My Knowledge in C++
+After establishing a solid foundation in other languages, moving towards a greater understanding of C++ for more advanced and low-level software development. 🛠️🚀
+
+🐍 Finalizing My Portfolio with Python Reflex
+Putting the finishing touches on my portfolio showcasing my mastery of Python and my skills in developing dynamic and reflective projects. 🖋️📁</h4>
+
+###
+
 <h2 align="left">PROGRAMMING LANGUAGES:</h2>
 
 ###
