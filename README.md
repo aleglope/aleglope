@@ -1,6 +1,3 @@
-[![DALL-E-2024-04-11-20-01-55-Create-a-banner-that-embodies-technology-and-IT-using-the-provided-ima.webp](https://i.postimg.cc/4xxk97nz/DALL-E-2024-04-11-20-01-55-Create-a-banner-that-embodies-technology-and-IT-using-the-provided-ima.webp)](https://postimg.cc/xch4rdvC)
-
-
 <h1 align="center">Hi 👋, I'm Alejandro González López</h1>
 [![DALL-E-2024-04-11-20-01-55-Create-a-banner-that-embodies-technology-and-IT-using-the-provided-ima.webp](https://i.postimg.cc/4xxk97nz/DALL-E-2024-04-11-20-01-55-Create-a-banner-that-embodies-technology-and-IT-using-the-provided-ima.webp)](https://postimg.cc/xch4rdvC)
 <p align="center">🌱 I’m currently learning React Three Fiber, Java, ML, Angular.</p>
@@ -40,7 +37,11 @@
 
 <h4 align="left">Other Tools:</h4>
 <p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+  <!-- Additional tools can be listed here -->
+</p>
+
 
 
 
