@@ -116,7 +116,7 @@ Putting the finishing touches on my portfolio showcasing my mastery of Python an
 
 ###
 
-<h2 align="left">scientific stack:</h2>
+<h2 align="left">SCIENTIFIC STACK:</h2>
 
 ###
 
@@ -149,6 +149,18 @@ Putting the finishing touches on my portfolio showcasing my mastery of Python an
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="70" alt="npm logo"  />
 </div>
+
+###
+
+<h2 align="left">GAMES:</h2>
+
+###
+
+<div align="left">
+![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
+
+</div>
+
 
 ###
 
