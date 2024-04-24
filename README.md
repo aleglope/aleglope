@@ -12,8 +12,8 @@
 
 ###
 
-<h4 🌐 Improving My English
-Continually working on polishing my English language skills for effective communication in a global environment. 📚🗣️
+🌐 Improving My English
+Continually working on polishing my English language skills for effective communication in a global environment. 🗣️
 
 🔶 Learning Angular & Java with Spring
 Immersing myself in modern web development, acquiring skills in Angular for front-end along with Java and the Spring framework for robust back-end solutions. 🌟💻
@@ -73,13 +73,14 @@ Putting the finishing touches on my portfolio showcasing my mastery of Python an
 <div align="left">
   <img src="https://cdn.simpleicons.org/spring/6DB33F" height="70" alt="spring logo"  />
   <img width="10" />
+  <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" height="70" alt="spring boot logo" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=flask" height="70" alt="flask logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70" alt="mysql logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="70" alt="postgresql logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="70" alt="oracle logo"  />
 </div>
 
 ###
@@ -89,7 +90,7 @@ Putting the finishing touches on my portfolio showcasing my mastery of Python an
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70" alt="docker logo"  />
+  <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" height="70" alt="docker logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="70" alt="kubernetes logo"  />
   <img width="10" />
@@ -105,7 +106,7 @@ Putting the finishing touches on my portfolio showcasing my mastery of Python an
   <img width="10" />
   <img src="https://cdn.simpleicons.org/selenium/43B02A" height="70" alt="selenium logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="70" alt="pytest logo"  />
+  <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" height="70" alt="pytest logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="70" alt="figma logo"  />
   <img width="10" />
@@ -148,18 +149,20 @@ Putting the finishing touches on my portfolio showcasing my mastery of Python an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="70" alt="jetbrains logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="70" alt="npm logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="70" alt="oracle logo"  />
 </div>
 
 ###
 
-<h2 align="left">GAMES:</h2>
+<h2 align="left">GAMER:</h2>
 
 ###
 
-<div align="left">
-![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
-
-</div>
+![image](https://github.com/aleglope/aleglope/assets/145428743/d4ca2bff-6482-49c2-bec5-1daabe7427eb)
+![image](https://github.com/aleglope/aleglope/assets/145428743/7acfa9f3-3814-4d51-83d7-49478a9ba239)
+![image](https://github.com/aleglope/aleglope/assets/145428743/fd912c83-d2b3-4709-9420-621378eb1263)
+![image](https://github.com/aleglope/aleglope/assets/145428743/0c5ca5db-dc33-4d7a-a621-9362d91c68bd)
 
 
 ###
