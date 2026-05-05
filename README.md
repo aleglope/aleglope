@@ -8,24 +8,36 @@
 
 ###
 
-<h4 align="left">🚀 Web Developer & Python Enthusiast | 3D Technology 🌐👨‍💻🔧<br><br>I am a self-taught enthusiast continuously learning in the field of information technology. With a solid grounding in web development and Python, I specialize in creating innovative solutions that drive efficiency and growth. My passion for artificial intelligence and 3D modeling tools motivates me to explore and adopt new technologies, always aiming to enhance my skills and contribute fresh ideas to any team.<br><br>I am currently expanding my capabilities in Python for AI applications and web development, committed to turning ideas into tangible realities. I seek opportunities where I can apply and increase my knowledge in a challenging and collaborative environment.</h4>
+<h4 align="left">🚀 Full-stack Web Developer · Real-time, AI & 3D 🌐👨‍💻🎧<br><br>Self-taught dev from Galicia. I started writing Python scripts in my bedroom and now I ship real-time multilingual audio platforms to medical and pharma congresses in production. What hooks me about programming is the moment something complex finally works — that 3 a.m. click that makes the rabbit hole worth it. I enjoy projects that mix code, 3D and AI, and I always keep something new learning on the side.<br><br>Open to senior / mid full-stack roles (remote EU) and select freelance engagements from Q3 2026.</h4>
 
 ###
 
-🌐 Improving My English
-Continually working on polishing my English language skills for effective communication in a global environment. 🗣️
+🎧 **Building AudioNow @logievents**
+Real-time multilingual audio platform for live events with LiveKit + Palabra.ai. In production since Jan 2026, serving medical and pharma congresses. 🚀
 
-🔶 Learning Angular & Java with Spring
-Immersing myself in modern web development, acquiring skills in Angular for front-end along with Java and the Spring framework for robust back-end solutions. 🌟💻
+☁️ **AWS Certified DevOps Engineer – Professional (2024)**
+Going deeper into infrastructure-as-code and observability for the platforms I ship. Currently leveling up Kubernetes and Terraform. 🛠️
 
-🐍 Exploring the Python Scientific Stack
-Delving into Python for data science and scientific computing, mastering tools like NumPy, SciPy, and pandas. 📈🧬
+🧪 **Exploring Vercel AI SDK + agentic workflows**
+Looking for where AI integration genuinely helps users vs where it's just noise. Lots of small experiments, a few keepers. 🤖
 
-➕ Deepening My Knowledge in C++
-After establishing a solid foundation in other languages, moving towards a greater understanding of C++ for more advanced and low-level software development. 🛠️🚀
+🌐 **Sharpening English for global collaboration**
+Daily ES, GL, CA — working with EN, PT and IT. Code reviews and async writing in English keep me sharp. 🗣️
 
-🐍 Finalizing My Portfolio with Python Reflex
-Putting the finishing touches on my portfolio showcasing my mastery of Python and my skills in developing dynamic and reflective projects. 🖋️📁</h4>
+🎨 **Side projects in R3F + creative coding**
+Because shipping isn't fun without something experimental on the side. Three.js, shaders, LiDAR — anything that mixes web and 3D. 🌟
+
+###
+
+<h2 align="left">🚀 CURRENTLY SHIPPING:</h2>
+
+###
+
+🎧 **AudioNow** — real-time multilingual audio for live events. Next.js + NestJS + Supabase + LiveKit + Palabra.ai. Production since Jan 2026, serving GEDOC, SEC, SEFH and Wave1 congresses.
+
+🏛️ **[RuralHackerMuseum](https://rural-hacker-museum.vercel.app)** — immersive 3D virtual museum (R3F + LiDAR + generative AI).
+
+🍔 **La Parrilla de Champi** — bilingual ES/GL restaurant site for streamer ChampiMuros (Next.js + Three.js + Framer Motion).
 
 ###
 
