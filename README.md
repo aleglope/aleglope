@@ -68,7 +68,7 @@ Because shipping isn't fun without something experimental on the side. Three.js,
   <img width="10" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="70" alt="html5 logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="70" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="css3 logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="70" alt="tailwindcss logo"  />
   <img width="10" />
@@ -154,7 +154,7 @@ Because shipping isn't fun without something experimental on the side. Three.js,
   <img width="10" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="70" alt="ubuntu logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="70" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="70" alt="vscode logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="70" alt="intellij logo"  />
   <img width="10" />
