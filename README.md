@@ -15,8 +15,8 @@
 🎧 **Building AudioNow @logievents**
 Real-time multilingual audio platform for live events with LiveKit + Palabra.ai. In production since Jan 2026, serving medical and pharma congresses. 🚀
 
-☁️ **AWS Certified DevOps Engineer – Professional (2024)**
-Going deeper into infrastructure-as-code and observability for the platforms I ship. Currently leveling up Kubernetes and Terraform. 🛠️
+☁️ **AWS DevOps Engineer – Professional training (CNTG, Xunta de Galicia, 2024)**
+Specialised training programme — not the official AWS cert (yet). Going deeper into infrastructure-as-code and observability for the platforms I ship. Currently leveling up Kubernetes and Terraform. 🛠️
 
 🧪 **Exploring Vercel AI SDK + agentic workflows**
 Looking for where AI integration genuinely helps users vs where it's just noise. Lots of small experiments, a few keepers. 🤖
@@ -37,7 +37,7 @@ Because shipping isn't fun without something experimental on the side. Three.js,
 
 🏛️ **[RuralHackerMuseum](https://rural-hacker-museum.vercel.app)** — immersive 3D virtual museum (R3F + LiDAR + generative AI).
 
-🍔 **La Parrilla de Champi** — bilingual ES/GL restaurant site for streamer ChampiMuros (Next.js + Three.js + Framer Motion).
+🍔 **[La Parrilla de Champi](https://www.laparrilladechampi.es/es)** — bilingual ES/GL restaurant site for streamer ChampiMuros (Next.js + Three.js + Framer Motion).
 
 ###
 
@@ -68,7 +68,7 @@ Because shipping isn't fun without something experimental on the side. Three.js,
   <img width="10" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="70" alt="html5 logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="70" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="css3 logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="70" alt="tailwindcss logo"  />
   <img width="10" />
@@ -121,10 +121,6 @@ Because shipping isn't fun without something experimental on the side. Three.js,
   <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" height="70" alt="pytest logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="70" alt="figma logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="70" alt="unrealengine logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=blender" height="70" alt="blender logo"  />
 </div>
 
 ###
@@ -154,7 +150,7 @@ Because shipping isn't fun without something experimental on the side. Three.js,
   <img width="10" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="70" alt="ubuntu logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="70" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="70" alt="vscode logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="70" alt="intellij logo"  />
   <img width="10" />
@@ -167,9 +163,33 @@ Because shipping isn't fun without something experimental on the side. Three.js,
 
 ###
 
-<h2 align="left">GAMER:</h2>
+<h2 align="left">🎮 GAME DEV & GAMING:</h2>
 
 ###
+
+<p align="left">
+🦠 <b><a href="https://github.com/aleglope/VirusInvaders">VirusInvaders LTS</a></b> — Space Invaders temático COVID hecho en <b>Unity 2022.3 LTS</b> + C# 10. ~2,500 LOC, 20+ scripts, arquitectura modular con <b>Strategy · Factory · Singleton · Observer + ScriptableObjects</b>. Cuatro tipos de coronavirus con comportamientos únicos, disparo dual (vertical y diagonal lateral), shaders HLSL custom, 60 FPS estables.<br><br>
+
+🎯 También trasteo con <b>Unreal Engine</b> y <b>Blender</b> en side projects de creative coding — siempre que un proyecto pueda mezclar código y un poco de 3D, mejor.
+</p>
+
+###
+
+<div align="left">
+  <a href="https://github.com/aleglope/VirusInvaders">
+    <img src="https://skillicons.dev/icons?i=unity" height="60" alt="unity logo" />
+  </a>
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="60" alt="unreal engine logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=blender" height="60" alt="blender logo" />
+</div>
+
+###
+
+<sub>📸 My gaming vibe:</sub>
 
 ![image](https://github.com/aleglope/aleglope/assets/145428743/d4ca2bff-6482-49c2-bec5-1daabe7427eb)
 ![image](https://github.com/aleglope/aleglope/assets/145428743/7acfa9f3-3814-4d51-83d7-49478a9ba239)
@@ -186,8 +206,9 @@ Because shipping isn't fun without something experimental on the side. Three.js,
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleglope&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleglope&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a href="https://github.com/aleglope">
+    <img src="https://raw.githubusercontent.com/aleglope/aleglope/metrics/github-metrics.svg" alt="GitHub metrics for aleglope" />
+  </a>
 </div>
 
 ###
