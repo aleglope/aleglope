@@ -37,7 +37,7 @@ Because shipping isn't fun without something experimental on the side. Three.js,
 
 🏛️ **[RuralHackerMuseum](https://rural-hacker-museum.vercel.app)** — immersive 3D virtual museum (R3F + LiDAR + generative AI).
 
-🍔 **La Parrilla de Champi** — bilingual ES/GL restaurant site for streamer ChampiMuros (Next.js + Three.js + Framer Motion).
+🍔 **[La Parrilla de Champi](https://www.laparrilladechampi.es/es)** — bilingual ES/GL restaurant site for streamer ChampiMuros (Next.js + Three.js + Framer Motion).
 
 ###
 
