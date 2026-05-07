@@ -121,10 +121,6 @@ Because shipping isn't fun without something experimental on the side. Three.js,
   <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" height="70" alt="pytest logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="70" alt="figma logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="70" alt="unrealengine logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=blender" height="70" alt="blender logo"  />
 </div>
 
 ###
@@ -167,9 +163,33 @@ Because shipping isn't fun without something experimental on the side. Three.js,
 
 ###
 
-<h2 align="left">GAMER:</h2>
+<h2 align="left">🎮 GAME DEV & GAMING:</h2>
 
 ###
+
+<p align="left">
+🦠 <b><a href="https://github.com/aleglope/VirusInvaders">VirusInvaders LTS</a></b> — Space Invaders temático COVID hecho en <b>Unity 2022.3 LTS</b> + C# 10. ~2,500 LOC, 20+ scripts, arquitectura modular con <b>Strategy · Factory · Singleton · Observer + ScriptableObjects</b>. Cuatro tipos de coronavirus con comportamientos únicos, disparo dual (vertical y diagonal lateral), shaders HLSL custom, 60 FPS estables.<br><br>
+
+🎯 También trasteo con <b>Unreal Engine</b> y <b>Blender</b> en side projects de creative coding — siempre que un proyecto pueda mezclar código y un poco de 3D, mejor.
+</p>
+
+###
+
+<div align="left">
+  <a href="https://github.com/aleglope/VirusInvaders">
+    <img src="https://skillicons.dev/icons?i=unity" height="60" alt="unity logo" />
+  </a>
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="60" alt="unreal engine logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=blender" height="60" alt="blender logo" />
+</div>
+
+###
+
+<sub>📸 My gaming vibe:</sub>
 
 ![image](https://github.com/aleglope/aleglope/assets/145428743/d4ca2bff-6482-49c2-bec5-1daabe7427eb)
 ![image](https://github.com/aleglope/aleglope/assets/145428743/7acfa9f3-3814-4d51-83d7-49478a9ba239)
