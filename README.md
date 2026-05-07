@@ -168,9 +168,9 @@ Because shipping isn't fun without something experimental on the side. Three.js,
 ###
 
 <p align="left">
-🦠 <b><a href="https://github.com/aleglope/VirusInvaders">VirusInvaders LTS</a></b> — Space Invaders temático COVID hecho en <b>Unity 2022.3 LTS</b> + C# 10. ~2,500 LOC, 20+ scripts, arquitectura modular con <b>Strategy · Factory · Singleton · Observer + ScriptableObjects</b>. Cuatro tipos de coronavirus con comportamientos únicos, disparo dual (vertical y diagonal lateral), shaders HLSL custom, 60 FPS estables.<br><br>
+🦠 <b><a href="https://github.com/aleglope/VirusInvaders">VirusInvaders LTS</a></b> — COVID-themed Space Invaders built in <b>Unity 2022.3 LTS</b> + C# 10. ~2,500 LOC, 20+ scripts, modular architecture with <b>Strategy · Factory · Singleton · Observer + ScriptableObjects</b>. Four coronavirus variants with unique behaviours, dual-axis shooting (vertical and lateral diagonal), custom HLSL shaders, stable 60 FPS.<br><br>
 
-🎯 También trasteo con <b>Unreal Engine</b> y <b>Blender</b> en side projects de creative coding — siempre que un proyecto pueda mezclar código y un poco de 3D, mejor.
+🎯 Also tinkering with <b>Unreal Engine</b> and <b>Blender</b> on creative-coding side projects — any chance to mix code with a bit of 3D, I take it.
 </p>
 
 ###
