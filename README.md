@@ -15,8 +15,8 @@
 🎧 **Building AudioNow @logievents**
 Real-time multilingual audio platform for live events with LiveKit + Palabra.ai. In production since Jan 2026, serving medical and pharma congresses. 🚀
 
-☁️ **AWS Certified DevOps Engineer – Professional (2024)**
-Going deeper into infrastructure-as-code and observability for the platforms I ship. Currently leveling up Kubernetes and Terraform. 🛠️
+☁️ **AWS DevOps Engineer – Professional training (CNTG, Xunta de Galicia, 2024)**
+Specialised training programme — not the official AWS cert (yet). Going deeper into infrastructure-as-code and observability for the platforms I ship. Currently leveling up Kubernetes and Terraform. 🛠️
 
 🧪 **Exploring Vercel AI SDK + agentic workflows**
 Looking for where AI integration genuinely helps users vs where it's just noise. Lots of small experiments, a few keepers. 🤖
@@ -206,8 +206,9 @@ Because shipping isn't fun without something experimental on the side. Three.js,
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleglope&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleglope&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a href="https://github.com/aleglope">
+    <img src="https://raw.githubusercontent.com/aleglope/aleglope/metrics/github-metrics.svg" alt="GitHub metrics for aleglope" />
+  </a>
 </div>
 
 ###
