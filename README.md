@@ -12,8 +12,8 @@
 
 ###
 
-🎧 **Building AudioNow @logievents**
-Real-time multilingual audio platform for live events with LiveKit + Palabra.ai. In production since Jan 2026, serving medical and pharma congresses. 🚀
+🎧 **Building Audio platform**
+Real-time multilingual audio platform for live events with LiveKit + Palabra.ai. 🚀
 
 ☁️ **AWS DevOps Engineer – Professional training (CNTG, Xunta de Galicia, 2024)**
 Specialised training programme — not the official AWS cert (yet). Going deeper into infrastructure-as-code and observability for the platforms I ship. Currently leveling up Kubernetes and Terraform. 🛠️
@@ -33,7 +33,7 @@ Because shipping isn't fun without something experimental on the side. Three.js,
 
 ###
 
-🎧 **AudioNow** — real-time multilingual audio for live events. Next.js + NestJS + Supabase + LiveKit + Palabra.ai. Production since Jan 2026, serving GEDOC, SEC, SEFH and Wave1 congresses.
+🎧 **AudioNow** — real-time multilingual audio for live events. Next.js + NestJS + Supabase + LiveKit + Palabra.ai.
 
 🏛️ **[RuralHackerMuseum](https://rural-hacker-museum.vercel.app)** — immersive 3D virtual museum (R3F + LiDAR + generative AI).
 
