@@ -16,7 +16,7 @@
 
 ###
 
-🏗️ **[Congress Tech Systems](https://github.com/aleglope/congress-tech-systems)** — the big one. **8 production systems designed, built and operated solo** (2025–2026) for a medical-congress company: online registration + payments (Redsys), real-time multilingual audio translation (LiveKit + Palabra.ai/OpenAI Realtime), badge printing with a 3D kiosk, BLE attendance over AWS IoT, and more. Source is proprietary — the link is the full **architecture case-study archive** (diagrams, decisions, trade-offs, verified metrics).
+🏗️ **[Congress Tech Systems](https://github.com/aleglope/congress-tech-systems)** — the big one. **8 production systems designed, built and operated solo in 5 months** (Jan–May 2026) for a medical-congress company: online registration + payments (Redsys), real-time multilingual audio translation (LiveKit + Palabra.ai/OpenAI Realtime), badge printing with a 3D kiosk, BLE attendance over AWS IoT, and more. Source is proprietary — the link is the full **architecture case-study archive** (diagrams, decisions, trade-offs, verified metrics).
 
 🎧 **AudioNow** — real-time multilingual audio for live events. Next.js + NestJS + Supabase + LiveKit + Palabra.ai, with OpenAI Realtime shipped as a canary release. Serving real congresses in production.
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">📊 2025–2026 IN NUMBERS — SHIPPED SOLO</h2>
+<h2 align="left">📊 2026 IN NUMBERS — 8 SYSTEMS IN 5 MONTHS, SOLO</h2>
 
 ###
 
@@ -44,7 +44,7 @@
 | 🤖 **AI integrations** | **7 speech-to-speech providers** integrated · 2 production-grade (Palabra.ai live + OpenAI Realtime canary) |
 | 🌍 **i18n** | **6 locales** with an LLM multi-provider translation pipeline |
 | 📋 **Engineering discipline** | 37 planned phases · 30 verification docs · 2 custom reusable AI agents |
-| 🎪 **Real-world impact** | Live at national medical congresses & corporate events (2025–2026) |
+| 🎪 **Real-world impact** | Live at national medical congresses & corporate events |
 
 ###
 
