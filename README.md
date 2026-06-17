@@ -32,7 +32,19 @@
 
 ###
 
-> ⚠️ Most of my production work lives in **private client/org repos**, so the contribution graph below underrepresents it. These numbers are measured from the actual codebases — full breakdown with evidence in [congress-tech-systems](https://github.com/aleglope/congress-tech-systems).
+<div align="left">
+  <img src="https://img.shields.io/badge/Production_Systems-8-2EA44F?style=for-the-badge" alt="8 production systems" />
+  <img src="https://img.shields.io/badge/Source_Code-236K%2B_LOC-3178C6?style=for-the-badge" alt="236K+ LOC" />
+  <img src="https://img.shields.io/badge/Commits-1%2C900%2B-F05032?style=for-the-badge&logo=git&logoColor=white" alt="1900+ commits" />
+  <img src="https://img.shields.io/badge/Test_Files-314-8A2BE2?style=for-the-badge" alt="314 test files" />
+  <img src="https://img.shields.io/badge/DB_Tables-60%2B-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="60+ tables" />
+  <img src="https://img.shields.io/badge/SQL_Migrations-120%2B-336791?style=for-the-badge" alt="120+ migrations" />
+  <img src="https://img.shields.io/badge/AI_Providers-7-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="7 AI providers" />
+  <img src="https://img.shields.io/badge/i18n_Locales-6-00897B?style=for-the-badge" alt="6 locales" />
+  <img src="https://img.shields.io/badge/Built_in-5_Months-555555?style=for-the-badge" alt="built in 5 months" />
+</div>
+
+> 📏 Measured from the **actual codebases**, not GitHub's public counters — most of this work lives in private client/org repos. Full evidence in [congress-tech-systems](https://github.com/aleglope/congress-tech-systems).
 
 | | |
 |---|---|
@@ -116,10 +128,12 @@ Full methodology: [METHODOLOGY.md](https://github.com/aleglope/congress-tech-sys
 
 ###
 
-<div align="center">
-  <a href="https://github.com/aleglope">
-    <img src="https://raw.githubusercontent.com/aleglope/aleglope/metrics/github-metrics.svg" alt="GitHub metrics for aleglope" />
-  </a>
+<h2 align="left">💻 MOST USED LANGUAGES <sub>(public repos)</sub></h2>
+
+###
+
+<div align="left">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleglope&layout=compact&langs_count=8&hide=markdown,html,css,scss&hide_border=true&theme=github_dark&title_color=58A6FF" alt="Top languages" />
 </div>
 
 ###
