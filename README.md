@@ -17,6 +17,8 @@
 ###
 
 🏗️ **[Congress Tech Systems](https://github.com/aleglope/congress-tech-systems)** — the big one. **8 production systems designed, built and operated solo in 5 months** (Jan–May 2026) for a medical-congress company: online registration + payments (Redsys), real-time multilingual audio translation (LiveKit + Palabra.ai/OpenAI Realtime), badge printing with a 3D kiosk, BLE attendance over AWS IoT, and more. Source is proprietary — the link is the full **architecture case-study archive** (diagrams, decisions, trade-offs, verified metrics).
+>
+> 🔍 **Jump to the top case studies →** [AudioNow](https://github.com/aleglope/congress-tech-systems/blob/main/projects/audionow.md) (real-time AI audio) · [Online Registration](https://github.com/aleglope/congress-tech-systems/blob/main/projects/inscripcion-online.md) (payments + legacy sync) · [Beacon Attendance](https://github.com/aleglope/congress-tech-systems/blob/main/projects/beacon-attendance.md) (AWS IoT pipeline)
 
 🎧 **AudioNow** — real-time multilingual audio for live events. Next.js + NestJS + Supabase + LiveKit + Palabra.ai, with OpenAI Realtime shipped as a canary release. Serving real congresses in production.
 
@@ -69,6 +71,8 @@ I build with Claude Code and agentic workflows as a **force multiplier**, on top
 - 📐 **Plan before code** — every milestone broken into phases with PLAN / RESEARCH / VERIFICATION docs (goal-backward checks, not "tasks done").
 - 🛠️ **Custom tooling on top of AI** — I write my own reusable agents (e.g. a LiveKit-translation reviewer, a Prisma/Supabase migration checker), not just prompts.
 - ✅ **Outputs validated** — typed contracts (Zod), tests, idempotency and anti-hallucination guards around every LLM boundary.
+
+> 📋 **The receipts:** 37 planned phases · 30 goal-backward verification docs · 2 custom reusable AI agents — all auditable in the repos.
 
 Full methodology: [METHODOLOGY.md](https://github.com/aleglope/congress-tech-systems/blob/main/METHODOLOGY.md) · Test strategy: [TESTING.md](https://github.com/aleglope/congress-tech-systems/blob/main/TESTING.md)
 
