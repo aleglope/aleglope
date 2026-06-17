@@ -128,11 +128,8 @@ Full methodology: [METHODOLOGY.md](https://github.com/aleglope/congress-tech-sys
 
 ###
 
-<h2 align="left">💻 MOST USED LANGUAGES <sub>(public repos)</sub></h2>
-
-###
-
-<div align="left">
+<div align="center">
+  <img height="175" src="https://grs-topaz.vercel.app/api?username=aleglope&show_icons=true&count_private=true&hide=issues,contribs&hide_border=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF" alt="Alejandro's GitHub stats (incl. private contributions)" />
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleglope&layout=compact&langs_count=8&hide=markdown,html,css,scss&hide_border=true&theme=github_dark&title_color=58A6FF" alt="Top languages" />
 </div>
 
