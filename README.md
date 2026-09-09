@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">🚀 Full-stack Web Developer · Real-time, AI & 3D 🌐👨‍💻🎧<br><br>Self-taught dev from Galicia. I started writing Python scripts in my bedroom and now I ship real-time multilingual audio platforms that run in production. What hooks me about programming is the moment something complex finally works — that 3 a.m. click that makes the rabbit hole worth it. I enjoy projects that mix code, 3D and AI, and I always keep something new learning on the side.<br><br>📬 Open to senior / mid full-stack roles (remote EU) and select freelance engagements from Q3 2026.</h4>
+<h4 align="left">🚀 Full-stack Web Developer · Real-time, AI & 3D 🌐👨‍💻🎧<br><br>Self-taught dev from Galicia. I started writing Python scripts in my bedroom, went on to ship real-time multilingual audio platforms that run in production, and now I build sites and products for my own clients. What hooks me about programming is the moment something complex finally works — that 3 a.m. click that makes the rabbit hole worth it. I enjoy projects that mix code, 3D and AI, and I always keep something new learning on the side.<br><br>📬 <b>Available now</b> — open to senior / mid full-stack roles (remote EU) and freelance work.<br><br>🌐 Portfolio: <a href="https://www.aglwences.dev">aglwences.dev</a> · 🧰 Services: <a href="https://alewences.es">alewences.es</a></h4>
 
 ###
 
@@ -23,8 +23,6 @@
 🎧 **AudioNow** — real-time multilingual audio for live sessions. Next.js + NestJS + Supabase + LiveKit + Palabra.ai, with OpenAI Realtime shipped as a canary release. Running in production with real traffic.
 
 🏛️ **[RuralHackerMuseum](https://rural-hacker-museum.vercel.app)** — immersive 3D virtual museum (R3F + LiDAR + generative AI). *Live demo.*
-
-🍔 **[La Parrilla de Champi](https://www.laparrilladechampi.es/es)** — bilingual ES/GL restaurant site for streamer ChampiMuros (Next.js + Three.js + Framer Motion). *Live in production.*
 
 🦠 **[VirusInvaders LTS](https://github.com/aleglope/VirusInvaders)** — COVID-themed Space Invaders in **Unity 2022.3 LTS** + C#. ~2,500 LOC, Strategy · Factory · Singleton · Observer + ScriptableObjects, custom HLSL shaders, stable 60 FPS.
 
@@ -59,6 +57,34 @@
 | 🌍 **i18n** | **6 locales** with an LLM multi-provider translation pipeline |
 | 📋 **Engineering discipline** | 37 planned phases · 30 verification docs · 2 custom reusable AI agents |
 | 🎯 **Real-world impact** | Running in production at large-scale live deployments |
+
+###
+
+<h2 align="left">🤝 CLIENT WORK — 2026</h2>
+
+###
+
+I also take small businesses from nothing to a live site: design, build, SEO, deploy and the aftercare.
+
+🍔 **[La Parrilla de Champi](https://www.laparrilladechampi.es)** — bilingual ES/GL restaurant site for streamer ChampiMuros (Next.js + Three.js + Framer Motion). *In production.*
+
+🎵 **[Groove In Club](https://grooveinclub.es)** — web platform for an electronic-music events club in Galicia. *In production.*
+
+🖋️ **Tattoo studio · two sites** — a premium studio site plus a second themed one, sharing one component system and design language. *In progress.*
+
+💈 **Barbershop build** — booking-oriented layout, 3D detail work and mobile-first copy.
+
+> 🧰 What I ship for clients: Next.js sites · e-commerce · chatbots and voice agents · brand identity and ad creatives — **[alewences.es](https://alewences.es)**
+
+###
+
+<h2 align="left">🧪 BUILDING ON THE SIDE</h2>
+
+###
+
+🎞️ **combivideo** — *one video, infinite combinations.* An open-source **combinatorial video** tool: a single video carries alternative takes for each time slot and the player walks a different path on every play — no cuts, no visible seams. The invariant is that seamlessness is bought at **encode** time, not at playback: every variant is encoded to one canonical profile with closed GOPs aligned to the slot boundaries and a **byte-identical shared init segment**; a Zod-typed trellis manifest (`@combivideo/spec`, pure `walk()` / `count()`) describes slots, variants and edges; and the player (raw MSE / **Managed Media Source**) concatenates the chosen segments into a single SourceBuffer, so a reroll is buffer surgery at the next slot boundary — same `<video>` element, no MediaSource reset. pnpm monorepo: spec + player + landing, phase 5 verified. *Repo going public soon.*
+
+🎮 **Wentwit** — SaaS for small Twitch streamers. When a fan donates or subscribes, it turns that event into an **AI thank-you image dedicated to the fan**, sends it through the streamer's approval queue and publishes it to Instagram / X — flipping the usual thank-you so the fan is the one being featured. Next.js 15 + DynamoDB + Stripe + Twitch EventSub + OpenAI, with pre-LLM moderation and AI disclosure built in (EU AI Act Art. 50). 4 of 6 phases shipped, currently parked.
 
 ###
 
@@ -120,7 +146,11 @@ Full methodology: [METHODOLOGY.md](https://github.com/aleglope/production-system
 
 ###
 
-🎧 **Shipping AudioNow** — real-time multilingual audio platform for live sessions (LiveKit + Palabra.ai + OpenAI Realtime canary). 🚀
+🧑‍💻 **Shipping client sites end to end** — design, Next.js build, SEO and deploy for small businesses. 🚀
+
+🎞️ **Open-sourcing combivideo** — getting the MSE/MMS player and the spec package ready to publish. 🎬
+
+🛒 **Running a print-on-demand storefront** — Shopify + Printify with an AI-assisted pipeline from artwork to listing. 🖨️
 
 ☁️ **AWS DevOps Engineer – Professional training (CNTG, Xunta de Galicia, 2024)** — going deeper into IaC and observability for the platforms I ship. Currently leveling up Kubernetes and Terraform. 🛠️
 
@@ -133,9 +163,12 @@ Full methodology: [METHODOLOGY.md](https://github.com/aleglope/production-system
 ###
 
 <div align="center">
-  <img height="175" src="https://grs-topaz.vercel.app/api?username=aleglope&show_icons=true&count_private=true&hide=issues,contribs&hide_border=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF" alt="Alejandro's GitHub stats (incl. private contributions)" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleglope&layout=compact&langs_count=8&hide=markdown,html,css,scss&hide_border=true&theme=github_dark&title_color=58A6FF" alt="Top languages" />
+  <img src="https://img.shields.io/badge/Contributions_last_12_months-2%2C215-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="2,215 contributions in the last 12 months" />
+  <img src="https://img.shields.io/badge/In_private_repos-85%25-555555?style=for-the-badge" alt="85% of them in private repos" />
+  <img src="https://img.shields.io/badge/Repos_contributed-12-3178C6?style=for-the-badge" alt="12 repositories contributed to" />
 </div>
+
+<div align="center"><sub>📈 The contribution graph on this profile already counts private work — <b>1,891 of those 2,215</b> contributions live in private client repositories.</sub></div>
 
 ###
 
