@@ -163,12 +163,12 @@ Full methodology: [METHODOLOGY.md](https://github.com/aleglope/production-system
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Contributions_last_12_months-2%2C215-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="2,215 contributions in the last 12 months" />
-  <img src="https://img.shields.io/badge/In_private_repos-85%25-555555?style=for-the-badge" alt="85% of them in private repos" />
+  <img src="https://img.shields.io/badge/Contributions_last_12_months-2%2C489%2B-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="2,489+ contributions in the last 12 months" />
+  <img src="https://img.shields.io/badge/In_private_repos-87%25-555555?style=for-the-badge" alt="87% of them in private repos" />
   <img src="https://img.shields.io/badge/Repos_contributed-12-3178C6?style=for-the-badge" alt="12 repositories contributed to" />
 </div>
 
-<div align="center"><sub>📈 The contribution graph on this profile already counts private work — <b>1,891 of those 2,215</b> contributions live in private client repositories.</sub></div>
+<div align="center"><sub>📈 The contribution graph on this profile already counts private work — <b>2,160 of those 2,489</b> contributions live in private repositories.</sub></div>
 
 ###
 
