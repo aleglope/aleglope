@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">🚀 Full-stack Web Developer · Real-time, AI & 3D 🌐👨‍💻🎧<br><br>Self-taught dev from Galicia. I started writing Python scripts in my bedroom and now I ship real-time multilingual audio platforms to medical and pharma congresses in production. What hooks me about programming is the moment something complex finally works — that 3 a.m. click that makes the rabbit hole worth it. I enjoy projects that mix code, 3D and AI, and I always keep something new learning on the side.<br><br>📬 Open to senior / mid full-stack roles (remote EU) and select freelance engagements from Q3 2026.</h4>
+<h4 align="left">🚀 Full-stack Web Developer · Real-time, AI & 3D 🌐👨‍💻🎧<br><br>Self-taught dev from Galicia. I started writing Python scripts in my bedroom and now I ship real-time multilingual audio platforms that run in production. What hooks me about programming is the moment something complex finally works — that 3 a.m. click that makes the rabbit hole worth it. I enjoy projects that mix code, 3D and AI, and I always keep something new learning on the side.<br><br>📬 Open to senior / mid full-stack roles (remote EU) and select freelance engagements from Q3 2026.</h4>
 
 ###
 
@@ -16,11 +16,11 @@
 
 ###
 
-🏗️ **[Congress Tech Systems](https://github.com/aleglope/congress-tech-systems)** — the big one. **8 production systems designed, built and operated solo in 5 months** (Jan–May 2026) for a medical-congress company: online registration + payments (Redsys), real-time multilingual audio translation (LiveKit + Palabra.ai/OpenAI Realtime), badge printing with a 3D kiosk, BLE attendance over AWS IoT, and more. Source is proprietary — the link is the full **architecture case-study archive** (diagrams, decisions, trade-offs, verified metrics).
+🏗️ **[Production Systems Case Studies](https://github.com/aleglope/production-systems-case-studies)** — the big one. **8 production systems designed, built and operated solo in 5 months** (Jan–May 2026): online registration + payments (Redsys), real-time multilingual audio translation (LiveKit + Palabra.ai/OpenAI Realtime), ID card printing with a 3D kiosk, BLE presence over AWS IoT, and more. Source is proprietary — the link is the full **architecture case-study archive** (diagrams, decisions, trade-offs, verified metrics).
 >
-> 🔍 **Jump to the top case studies →** [AudioNow](https://github.com/aleglope/congress-tech-systems/blob/main/projects/audionow.md) (real-time AI audio) · [Online Registration](https://github.com/aleglope/congress-tech-systems/blob/main/projects/inscripcion-online.md) (payments + legacy sync) · [Beacon Attendance](https://github.com/aleglope/congress-tech-systems/blob/main/projects/beacon-attendance.md) (AWS IoT pipeline)
+> 🔍 **Jump to the top case studies →** [AudioNow](https://github.com/aleglope/production-systems-case-studies/blob/main/projects/audionow.md) (real-time AI audio) · [Online Registration](https://github.com/aleglope/production-systems-case-studies/blob/main/projects/online-registration.md) (payments + legacy sync) · [Beacon Presence](https://github.com/aleglope/production-systems-case-studies/blob/main/projects/ble-presence.md) (AWS IoT pipeline)
 
-🎧 **AudioNow** — real-time multilingual audio for live events. Next.js + NestJS + Supabase + LiveKit + Palabra.ai, with OpenAI Realtime shipped as a canary release. Serving real congresses in production.
+🎧 **AudioNow** — real-time multilingual audio for live sessions. Next.js + NestJS + Supabase + LiveKit + Palabra.ai, with OpenAI Realtime shipped as a canary release. Running in production with real traffic.
 
 🏛️ **[RuralHackerMuseum](https://rural-hacker-museum.vercel.app)** — immersive 3D virtual museum (R3F + LiDAR + generative AI). *Live demo.*
 
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/Built_in-5_Months-555555?style=for-the-badge" alt="built in 5 months" />
 </div>
 
-> 📏 Measured from the **actual codebases**, not GitHub's public counters — most of this work lives in private client/org repos. Full evidence in [congress-tech-systems](https://github.com/aleglope/congress-tech-systems).
+> 📏 Measured from the **actual codebases**, not GitHub's public counters — most of this work lives in private client/org repos. Full evidence in [production-systems-case-studies](https://github.com/aleglope/production-systems-case-studies).
 
 | | |
 |---|---|
@@ -58,7 +58,7 @@
 | 🤖 **AI integrations** | **7 speech-to-speech providers** integrated · 2 production-grade (Palabra.ai live + OpenAI Realtime canary) |
 | 🌍 **i18n** | **6 locales** with an LLM multi-provider translation pipeline |
 | 📋 **Engineering discipline** | 37 planned phases · 30 verification docs · 2 custom reusable AI agents |
-| 🎪 **Real-world impact** | Live at national medical congresses & corporate events |
+| 🎯 **Real-world impact** | Running in production at large-scale live deployments |
 
 ###
 
@@ -74,7 +74,7 @@ I build with Claude Code and agentic workflows as a **force multiplier**, on top
 
 > 📋 **The receipts:** 37 planned phases · 30 goal-backward verification docs · 2 custom reusable AI agents — all auditable in the repos.
 
-Full methodology: [METHODOLOGY.md](https://github.com/aleglope/congress-tech-systems/blob/main/METHODOLOGY.md) · Test strategy: [TESTING.md](https://github.com/aleglope/congress-tech-systems/blob/main/TESTING.md)
+Full methodology: [METHODOLOGY.md](https://github.com/aleglope/production-systems-case-studies/blob/main/METHODOLOGY.md) · Test strategy: [TESTING.md](https://github.com/aleglope/production-systems-case-studies/blob/main/TESTING.md)
 
 ###
 
@@ -120,7 +120,7 @@ Full methodology: [METHODOLOGY.md](https://github.com/aleglope/congress-tech-sys
 
 ###
 
-🎧 **Shipping AudioNow** — real-time multilingual audio platform for live events (LiveKit + Palabra.ai + OpenAI Realtime canary). 🚀
+🎧 **Shipping AudioNow** — real-time multilingual audio platform for live sessions (LiveKit + Palabra.ai + OpenAI Realtime canary). 🚀
 
 ☁️ **AWS DevOps Engineer – Professional training (CNTG, Xunta de Galicia, 2024)** — going deeper into IaC and observability for the platforms I ship. Currently leveling up Kubernetes and Terraform. 🛠️
 
@@ -146,7 +146,7 @@ Full methodology: [METHODOLOGY.md](https://github.com/aleglope/congress-tech-sys
   <a href="https://www.linkedin.com/in/alejandrogonzlopez/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://github.com/aleglope/congress-tech-systems" target="_blank">
+  <a href="https://github.com/aleglope/production-systems-case-studies" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Case%20Studies&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="case studies"  />
   </a>
 </div>
