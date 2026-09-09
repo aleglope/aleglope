@@ -72,9 +72,9 @@ I also take small businesses from nothing to a live site: design, build, SEO, de
 
 🖋️ **Tattoo studio · two sites** — a premium studio site plus a second themed one, sharing one component system and design language. *In progress.*
 
-💈 **Barbershop build** — booking-oriented layout, 3D detail work and mobile-first copy.
+💈 **NOVA Barber Studio** — a **showcase build** for barbershops and hair salons: complete site on a deliberately fictional brand (no real business data), mobile-first and tuned for LCP, with multi-location pages and a **24/7 chatbot** that answers prices, hours and services. It's what I put in front of a salon so "this is what your site could look like" stops being abstract.
 
-> 🧰 What I ship for clients: Next.js sites · e-commerce · chatbots and voice agents · brand identity and ad creatives — **[alewences.es](https://alewences.es)**
+> 🤖 That chatbot ships as a service of its own · 🧰 and so does the rest: Next.js sites · e-commerce · voice agents · brand identity and ad creatives — **[alewences.es](https://alewences.es)**
 
 ###
 
