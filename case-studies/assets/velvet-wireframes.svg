@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1100" viewBox="0 0 1200 1100" role="img" aria-labelledby="title desc" xml:lang="en">
+<title id="title">Conceptual UX wireframes · redrawn for this case study</title>
+<desc id="desc">Illustrative layouts and sample states. Not final screens or evidence of product acceptance. 1  Discover the studio. 2  Match the journey to the intent. 3  Help the team decide what happens next.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#52645b"/></marker></defs>
+<rect width="1200" height="1100" fill="#f7f6f2"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#202c26">
+<text x="32" y="35" font-size="18" font-weight="700" fill="#3d6557" text-anchor="start">VELVET · PRODUCT / UX / ENGINEERING</text>
+<text x="32" y="81" font-size="36" font-weight="700" fill="#202c26" text-anchor="start">Product decisions, made visible</text>
+<text x="32" y="118" font-size="23" font-weight="700" fill="#202c26" text-anchor="start">Conceptual UX wireframes · redrawn for this case study</text>
+<text x="32" y="148" font-size="19" font-weight="400" fill="#202c26" text-anchor="start">Illustrative layouts and sample states. Not final screens or evidence of product acceptance.</text>
+<rect x="32" y="177" width="552" height="548" rx="0" fill="#ffffff" stroke="#b4bdb7" stroke-width="1.5"/>
+<rect x="616" y="177" width="552" height="548" rx="0" fill="#ffffff" stroke="#b4bdb7" stroke-width="1.5"/>
+<text x="54" y="216" font-size="26" font-weight="700" fill="#202c26" text-anchor="start">1  Discover the studio</text>
+<text x="54" y="248" font-size="20" font-weight="400" fill="#202c26" text-anchor="start">Build confidence before asking for a booking.</text>
+<rect x="58" y="273" width="500" height="423" rx="3" fill="#fbfaf7" stroke="#7e8c83" stroke-width="1.5"/>
+<text x="81" y="310" font-size="20" font-weight="700" fill="#202c26" text-anchor="start">Work     Artists     Protocol     Visit</text>
+<rect x="80" y="327.5" width="456" height="1" fill="#b4bdb7"/>
+<rect x="80" y="349" width="456" height="107" rx="5" fill="#edf1ec" stroke="#a5b1a8" stroke-width="1.5"/>
+<text x="101" y="390" font-size="26" font-weight="700" fill="#202c26" text-anchor="start">Identity + point of view</text>
+<text x="101" y="424" font-size="20" font-weight="400" fill="#202c26" text-anchor="start">A clear introduction to the studio</text>
+<rect x="80" y="476" width="216" height="84" rx="5" fill="#f4f2ec" stroke="#99a69d" stroke-width="1.5"/>
+<rect x="312" y="476" width="224" height="84" rx="5" fill="#f4f2ec" stroke="#99a69d" stroke-width="1.5"/>
+<text x="98" y="524" font-size="21" font-weight="700" fill="#202c26" text-anchor="start">Work by style</text>
+<text x="329" y="524" font-size="21" font-weight="700" fill="#202c26" text-anchor="start">Artist + approach</text>
+<rect x="80" y="578" width="456" height="47" rx="5" fill="#ffffff" stroke="#99a69d" stroke-width="1.5"/>
+<text x="98" y="608" font-size="20" font-weight="400" fill="#202c26" text-anchor="start">Process, care and practical questions</text>
+<rect x="80" y="644" width="456" height="32" rx="2" fill="#335e4e" stroke="#335e4e" stroke-width="1.5"/>
+<text x="308" y="667" font-size="21" font-weight="700" fill="#ffffff" text-anchor="middle">Request an appointment</text>
+<text x="638" y="216" font-size="25" font-weight="700" fill="#202c26" text-anchor="start">2  Match the journey to the intent</text>
+<text x="638" y="248" font-size="20" font-weight="400" fill="#202c26" text-anchor="start">Different commercial flows, one shared operation.</text>
+<text x="766" y="295" font-size="23" font-weight="700" fill="#202c26" text-anchor="middle">Velvet</text>
+<text x="1026" y="295" font-size="23" font-weight="700" fill="#202c26" text-anchor="middle">El Camino</text>
+<rect x="652" y="317" width="228" height="83" rx="5" fill="#fbfaf7" stroke="#7e8c83" stroke-width="1.5"/>
+<text x="766" y="349" font-size="20" font-weight="400" fill="#202c26" text-anchor="middle">Custom request</text>
+<text x="766" y="377" font-size="20" font-weight="400" fill="#202c26" text-anchor="middle">Context + reference</text>
+<rect x="765" y="402" width="2" height="20" fill="#52645b"/><polygon points="760,415 772,415 766,423" fill="#52645b"/>
+<rect x="652" y="428" width="228" height="83" rx="5" fill="#fbfaf7" stroke="#7e8c83" stroke-width="1.5"/>
+<text x="766" y="460" font-size="20" font-weight="400" fill="#202c26" text-anchor="middle">Team review</text>
+<text x="766" y="488" font-size="20" font-weight="400" fill="#202c26" text-anchor="middle">Quote + conditions</text>
+<rect x="765" y="513" width="2" height="20" fill="#52645b"/><polygon points="760,526 772,526 766,534" fill="#52645b"/>
+<rect x="652" y="539" width="228" height="83" rx="5" fill="#edf1ec" stroke="#7e8c83" stroke-width="1.5"/>
+<text x="766" y="588" font-size="20" font-weight="700" fill="#202c26" text-anchor="middle">Customer acceptance</text>
+<rect x="912" y="317" width="228" height="83" rx="5" fill="#fbfaf7" stroke="#7e8c83" stroke-width="1.5"/>
+<text x="1026" y="349" font-size="20" font-weight="400" fill="#202c26" text-anchor="middle">Catalogue choices</text>
+<text x="1026" y="377" font-size="20" font-weight="400" fill="#202c26" text-anchor="middle">Per person / group</text>
+<rect x="1025" y="402" width="2" height="20" fill="#52645b"/><polygon points="1020,415 1032,415 1026,423" fill="#52645b"/>
+<rect x="912" y="428" width="228" height="83" rx="5" fill="#fbfaf7" stroke="#7e8c83" stroke-width="1.5"/>
+<text x="1026" y="460" font-size="20" font-weight="400" fill="#202c26" text-anchor="middle">Check availability</text>
+<text x="1026" y="488" font-size="20" font-weight="400" fill="#202c26" text-anchor="middle">Capacity + conditions</text>
+<rect x="1025" y="513" width="2" height="20" fill="#52645b"/><polygon points="1020,526 1032,526 1026,534" fill="#52645b"/>
+<rect x="912" y="539" width="228" height="83" rx="5" fill="#edf1ec" stroke="#7e8c83" stroke-width="1.5"/>
+<text x="1026" y="588" font-size="20" font-weight="700" fill="#202c26" text-anchor="middle">Valid confirmation</text>
+<text x="892" y="674" font-size="20" font-weight="700" fill="#202c26" text-anchor="middle">A request is not a confirmed appointment.</text>
+<rect x="32" y="757" width="1136" height="266" rx="0" fill="#ffffff" stroke="#b4bdb7" stroke-width="1.5"/>
+<text x="54" y="796" font-size="27" font-weight="700" fill="#202c26" text-anchor="start">3  Help the team decide what happens next</text>
+<text x="54" y="828" font-size="20" font-weight="400" fill="#202c26" text-anchor="start">Shared inbox · studio-scoped access · illustrative states</text>
+<rect x="58" y="850" width="1084" height="43" rx="0" fill="#edf1ec" stroke="#b4bdb7" stroke-width="1.5"/>
+<text x="80" y="879" font-size="21" font-weight="700" fill="#202c26" text-anchor="start">Context</text>
+<text x="421" y="879" font-size="21" font-weight="700" fill="#202c26" text-anchor="start">State</text>
+<text x="790" y="879" font-size="21" font-weight="700" fill="#202c26" text-anchor="start">Next action</text>
+<text x="80" y="925" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">Custom request</text>
+<text x="421" y="925" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">Awaiting review</text>
+<text x="790" y="925" font-size="21" font-weight="700" fill="#202c26" text-anchor="start">Prepare a quote</text>
+<rect x="80" y="935.5" width="1040" height="1" fill="#b4bdb7"/>
+<text x="80" y="963" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">Catalogue request</text>
+<text x="421" y="963" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">Capacity to check</text>
+<text x="790" y="963" font-size="21" font-weight="700" fill="#202c26" text-anchor="start">Review availability</text>
+<rect x="80" y="973.5" width="1040" height="1" fill="#b4bdb7"/>
+<text x="80" y="1001" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">Document step</text>
+<text x="421" y="1001" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">Needs completion</text>
+<text x="790" y="1001" font-size="21" font-weight="700" fill="#202c26" text-anchor="start">Explain the required step</text>
+<text x="32" y="1067" font-size="20" font-weight="400" fill="#40574a" text-anchor="start">The case study separates implementation, validation and activation for each part.</text>
+</g></svg>

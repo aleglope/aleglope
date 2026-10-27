@@ -24,9 +24,9 @@ The AudioNow case separates the Palabra platform's documented live-session use f
 
 ## Current work & experiments · October 2026
 
-These projects are in development; their source is not published here.
+Current client work and personal experiments, with delivery status stated per project. Their source is not published here.
 
-- **Studio operations platform · client project.** Building shared booking and consent-document workflows for two studios, with a framework-independent TypeScript domain and studio-scoped server-side data access. Current work focuses on integration between the public sites and operational tools, and on readiness for day-to-day use.
+- **[Velvet ecosystem · client project](case-studies/velvet.md).** Product definition, audience positioning, customer journeys, wireframes, visual direction and full-stack development across two studio websites, an academy site and shared operational tools. I also proposed a personalized certificate experience connected to the digital workflow. The academy's information and enquiry site is live; the wider studio platform remains in integration and operational validation. [Read the case study](case-studies/velvet.md) · [Español](case-studies/velvet.es.md).
 - **Rastro · local research prototype.** AI-assisted product and supplier research with source-linked findings, SQLite-backed background jobs, restart recovery and spend tracking. Current work focuses on comparison rules and evidence quality; commercial accuracy and large real-world searches still need validation. React + Node.js + SQLite.
 - **combivideo · experimental media project.** A typed manifest describes alternative video segments; seeded selection produces reproducible combinations, and an MSE/MMS player handles playback. The project includes recoverable packaging/export jobs, with real-media and browser validation still in progress. TypeScript + Zod + browser media APIs.
 
