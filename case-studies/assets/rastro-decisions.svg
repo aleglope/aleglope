@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1050" viewBox="0 0 1200 1050" role="img" aria-labelledby="title desc" xml:lang="en">
+<title id="title">Evidence changes the purchasing decision</title>
+<desc id="desc">Fictional example: missing delivery cost, a rejected format and a supplier without a price; no real commercial results.</desc>
+<rect width="1200" height="1050" fill="#f7f6f2"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#202c26">
+<text x="32" y="35" font-size="19" font-weight="700" fill="#335e4e" text-anchor="start">RASTRO · PRODUCT / UX / ENGINEERING</text>
+<text x="32" y="83" font-size="36" font-weight="700" fill="#202c26" text-anchor="start">Evidence changes the purchasing decision</text>
+<text x="32" y="123" font-size="23" font-weight="700" fill="#202c26" text-anchor="start">Conceptual example · redrawn for this case study</text>
+<text x="32" y="153" font-size="20" font-weight="400" fill="#202c26" text-anchor="start">Illustrative data · not a product screenshot</text>
+<rect x="32" y="184" width="1136" height="126" fill="#edf1ec" stroke="#b4bdb7" stroke-width="1.5"/>
+<text x="54" y="222" font-size="25" font-weight="700" fill="#202c26" text-anchor="start">Confirmed requirements · fictional Product A</text>
+<text x="54" y="259" font-size="23" font-weight="400" fill="#202c26" text-anchor="start">Same quantity and destination; agreed pack format.</text>
+<text x="54" y="291" font-size="20" font-weight="400" fill="#52645b" text-anchor="start">These constraints stay attached to the comparison.</text>
+<text x="54" y="355" font-size="22" font-weight="700" fill="#202c26" text-anchor="start">Finding</text>
+<text x="390" y="355" font-size="22" font-weight="700" fill="#202c26" text-anchor="start">Available evidence</text>
+<text x="850" y="355" font-size="22" font-weight="700" fill="#202c26" text-anchor="start">Decision and next action</text>
+<rect x="32" y="377" width="1136" height="148" fill="#ffffff" stroke="#b4bdb7" stroke-width="1.5"/>
+<rect x="834" y="377" width="334" height="148" fill="#edf1ec" stroke="#b4bdb7" stroke-width="1.5"/>
+<text x="54" y="414" font-size="23" font-weight="700" fill="#202c26" text-anchor="start">Candidate offer 1</text>
+<text x="54" y="453" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">Product A</text>
+<text x="54" y="487" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">Pack matches</text>
+<text x="390" y="435" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">Identity and format match.</text>
+<text x="390" y="471" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">Delivery cost is missing.</text>
+<text x="850" y="429" font-size="23" font-weight="700" fill="#335e4e" text-anchor="start">Total pending</text>
+<text x="850" y="471" font-size="20" font-weight="400" fill="#202c26" text-anchor="start">Check delivery terms.</text>
+<rect x="32" y="546" width="1136" height="148" fill="#ffffff" stroke="#b4bdb7" stroke-width="1.5"/>
+<rect x="834" y="546" width="334" height="148" fill="#edf1ec" stroke="#b4bdb7" stroke-width="1.5"/>
+<text x="54" y="583" font-size="23" font-weight="700" fill="#202c26" text-anchor="start">Candidate offer 2</text>
+<text x="54" y="622" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">Same product name</text>
+<text x="54" y="656" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">Different format</text>
+<text x="390" y="604" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">The format does not meet</text>
+<text x="390" y="640" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">the confirmed requirements.</text>
+<text x="850" y="598" font-size="23" font-weight="700" fill="#335e4e" text-anchor="start">Rejected</text>
+<text x="850" y="640" font-size="20" font-weight="400" fill="#202c26" text-anchor="start">Not a like-for-like comparison.</text>
+<rect x="32" y="715" width="1136" height="148" fill="#ffffff" stroke="#b4bdb7" stroke-width="1.5"/>
+<rect x="834" y="715" width="334" height="148" fill="#edf1ec" stroke="#b4bdb7" stroke-width="1.5"/>
+<text x="54" y="752" font-size="23" font-weight="700" fill="#202c26" text-anchor="start">Potential supplier 3</text>
+<text x="54" y="791" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">Relevant catalogue</text>
+<text x="54" y="825" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">No specific offer</text>
+<text x="390" y="773" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">A source supports this lead.</text>
+<text x="390" y="809" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">Price and terms are unknown.</text>
+<text x="850" y="767" font-size="23" font-weight="700" fill="#335e4e" text-anchor="start">Lead pending</text>
+<text x="850" y="809" font-size="20" font-weight="400" fill="#202c26" text-anchor="start">Request a comparable offer.</text>
+<line x1="32" y1="916" x2="1168" y2="916" stroke="#b4bdb7" stroke-width="1.5"/>
+<text x="32" y="956" font-size="23" font-weight="700" fill="#202c26" text-anchor="start">A pending supplier lead is not a purchase-ready offer.</text>
+<text x="32" y="996" font-size="21" font-weight="400" fill="#52645b" text-anchor="start">The state explains what is known, what is missing and what to do next.</text>
+</g>
+</svg>
