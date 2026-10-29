@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1050" viewBox="0 0 1200 1050" role="img" aria-labelledby="title desc" xml:lang="es">
+<title id="title">Decidir qué se puede comparar</title>
+<desc id="desc">Ejemplo ficticio: portes pendientes, formato descartado y proveedor sin precio; sin resultados comerciales reales.</desc>
+<rect width="1200" height="1050" fill="#f7f6f2"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#202c26">
+<text x="32" y="35" font-size="19" font-weight="700" fill="#335e4e" text-anchor="start">RASTRO · PRODUCTO / UX / DESARROLLO</text>
+<text x="32" y="83" font-size="36" font-weight="700" fill="#202c26" text-anchor="start">Decidir qué se puede comparar</text>
+<text x="32" y="123" font-size="23" font-weight="700" fill="#202c26" text-anchor="start">Ejemplo conceptual · redibujado para este caso</text>
+<text x="32" y="153" font-size="20" font-weight="400" fill="#202c26" text-anchor="start">Datos ilustrativos · no es una captura del producto</text>
+<rect x="32" y="184" width="1136" height="126" fill="#edf1ec" stroke="#b4bdb7" stroke-width="1.5"/>
+<text x="54" y="222" font-size="25" font-weight="700" fill="#202c26" text-anchor="start">Requisitos confirmados · Producto A ficticio</text>
+<text x="54" y="259" font-size="23" font-weight="400" fill="#202c26" text-anchor="start">Misma cantidad y destino; formato de pack acordado.</text>
+<text x="54" y="291" font-size="20" font-weight="400" fill="#52645b" text-anchor="start">La comparación conserva estas condiciones.</text>
+<text x="54" y="355" font-size="22" font-weight="700" fill="#202c26" text-anchor="start">Hallazgo</text>
+<text x="390" y="355" font-size="22" font-weight="700" fill="#202c26" text-anchor="start">Evidencia disponible</text>
+<text x="850" y="355" font-size="22" font-weight="700" fill="#202c26" text-anchor="start">Decisión y siguiente paso</text>
+<rect x="32" y="377" width="1136" height="148" fill="#ffffff" stroke="#b4bdb7" stroke-width="1.5"/>
+<rect x="834" y="377" width="334" height="148" fill="#edf1ec" stroke="#b4bdb7" stroke-width="1.5"/>
+<text x="54" y="414" font-size="23" font-weight="700" fill="#202c26" text-anchor="start">Oferta candidata 1</text>
+<text x="54" y="453" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">Producto A</text>
+<text x="54" y="487" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">El pack coincide</text>
+<text x="390" y="435" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">Identidad y formato coinciden.</text>
+<text x="390" y="471" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">Faltan los portes al destino.</text>
+<text x="850" y="429" font-size="23" font-weight="700" fill="#335e4e" text-anchor="start">Total pendiente</text>
+<text x="850" y="471" font-size="20" font-weight="400" fill="#202c26" text-anchor="start">Consultar el transporte.</text>
+<rect x="32" y="546" width="1136" height="148" fill="#ffffff" stroke="#b4bdb7" stroke-width="1.5"/>
+<rect x="834" y="546" width="334" height="148" fill="#edf1ec" stroke="#b4bdb7" stroke-width="1.5"/>
+<text x="54" y="583" font-size="23" font-weight="700" fill="#202c26" text-anchor="start">Oferta candidata 2</text>
+<text x="54" y="622" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">Mismo nombre</text>
+<text x="54" y="656" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">Formato diferente</text>
+<text x="390" y="604" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">El formato no cumple</text>
+<text x="390" y="640" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">los requisitos confirmados.</text>
+<text x="850" y="598" font-size="23" font-weight="700" fill="#335e4e" text-anchor="start">Descartada</text>
+<text x="850" y="640" font-size="20" font-weight="400" fill="#202c26" text-anchor="start">No comparar como equivalente.</text>
+<rect x="32" y="715" width="1136" height="148" fill="#ffffff" stroke="#b4bdb7" stroke-width="1.5"/>
+<rect x="834" y="715" width="334" height="148" fill="#edf1ec" stroke="#b4bdb7" stroke-width="1.5"/>
+<text x="54" y="752" font-size="23" font-weight="700" fill="#202c26" text-anchor="start">Posible proveedor 3</text>
+<text x="54" y="791" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">Catálogo relevante</text>
+<text x="54" y="825" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">Sin oferta concreta</text>
+<text x="390" y="773" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">Hay una pista con fuente.</text>
+<text x="390" y="809" font-size="21" font-weight="400" fill="#202c26" text-anchor="start">Precio y condiciones pendientes.</text>
+<text x="850" y="767" font-size="23" font-weight="700" fill="#335e4e" text-anchor="start">Pista pendiente</text>
+<text x="850" y="809" font-size="20" font-weight="400" fill="#202c26" text-anchor="start">Pedir una oferta comparable.</text>
+<line x1="32" y1="916" x2="1168" y2="916" stroke="#b4bdb7" stroke-width="1.5"/>
+<text x="32" y="956" font-size="23" font-weight="700" fill="#202c26" text-anchor="start">Un proveedor pendiente no equivale a una oferta apta.</text>
+<text x="32" y="996" font-size="21" font-weight="400" fill="#52645b" text-anchor="start">El estado comunica qué se sabe, qué falta y qué hacer después.</text>
+</g>
+</svg>

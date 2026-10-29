@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1050" viewBox="0 0 1200 1050" role="img" aria-labelledby="title desc" xml:lang="en">
+<title id="title">From creator control to a reproducible edit</title>
+<desc id="desc">Fictional three-slot graph with alternatives, one blocked transition, two seeds and playback/export outputs.</desc>
+<rect width="1200" height="1050" fill="#f7f6f2"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#202c26">
+<text x="32" y="35" font-size="19" font-weight="700" fill="#335e4e" text-anchor="start">COMBIVIDEO · MODEL / EXPERIENCE / VIDEO</text>
+<text x="32" y="83" font-size="34" font-weight="700" fill="#202c26" text-anchor="start">From creator control to a reproducible edit</text>
+<text x="32" y="123" font-size="23" font-weight="700" fill="#202c26" text-anchor="start">Conceptual example · redrawn for this case study</text>
+<text x="32" y="153" font-size="20" font-weight="400" fill="#202c26" text-anchor="start">Illustrative data · not a product screenshot</text>
+<line x1="32" y1="196" x2="81.0" y2="196.0" stroke="#335e4e" stroke-width="3"/><polygon points="94.0,196.0 81.0,190.0 81.0,202.0" fill="#335e4e"/>
+<text x="108" y="203" font-size="20" font-weight="400" fill="#202c26" text-anchor="start">Allowed transition</text>
+<line x1="470" y1="196" x2="519.0" y2="196.0" stroke="#9b4638" stroke-width="3" stroke-dasharray="8 7"/><polygon points="532.0,196.0 519.0,190.0 519.0,202.0" fill="#9b4638"/>
+<text x="546" y="203" font-size="20" font-weight="400" fill="#202c26" text-anchor="start">Blocked transition</text>
+<text x="180" y="254" font-size="23" font-weight="700" fill="#202c26" text-anchor="middle">Slot A</text>
+<text x="600" y="254" font-size="23" font-weight="700" fill="#202c26" text-anchor="middle">Slot B</text>
+<text x="1020" y="254" font-size="23" font-weight="700" fill="#202c26" text-anchor="middle">Slot C</text>
+<line x1="261" y1="318" x2="506.0" y2="318.0" stroke="#335e4e" stroke-width="3"/><polygon points="519.0,318.0 506.0,312.0 506.0,324.0" fill="#335e4e"/>
+<line x1="681" y1="318" x2="926.0" y2="318.0" stroke="#335e4e" stroke-width="3"/><polygon points="939.0,318.0 926.0,312.0 926.0,324.0" fill="#335e4e"/>
+<line x1="261" y1="473" x2="506.0" y2="473.0" stroke="#335e4e" stroke-width="3"/><polygon points="519.0,473.0 506.0,467.0 506.0,479.0" fill="#335e4e"/>
+<line x1="681" y1="473" x2="926.0" y2="473.0" stroke="#335e4e" stroke-width="3"/><polygon points="939.0,473.0 926.0,467.0 926.0,479.0" fill="#335e4e"/>
+<line x1="261" y1="463" x2="507.48156962066594" y2="334.027085663605" stroke="#9b4638" stroke-width="3" stroke-dasharray="9 7"/><polygon points="519.0,328.0 504.7,328.7 510.3,339.3" fill="#9b4638"/>
+<rect x="100" y="280" width="160" height="76" fill="#edf1ec" stroke="#b4bdb7" stroke-width="1.5"/>
+<text x="180" y="329" font-size="29" font-weight="700" fill="#202c26" text-anchor="middle">A1</text>
+<rect x="100" y="435" width="160" height="76" fill="#edf1ec" stroke="#b4bdb7" stroke-width="1.5"/>
+<text x="180" y="484" font-size="29" font-weight="700" fill="#202c26" text-anchor="middle">A2</text>
+<rect x="520" y="280" width="160" height="76" fill="#edf1ec" stroke="#b4bdb7" stroke-width="1.5"/>
+<text x="600" y="329" font-size="29" font-weight="700" fill="#202c26" text-anchor="middle">B1</text>
+<rect x="520" y="435" width="160" height="76" fill="#edf1ec" stroke="#b4bdb7" stroke-width="1.5"/>
+<text x="600" y="484" font-size="29" font-weight="700" fill="#202c26" text-anchor="middle">B2</text>
+<rect x="940" y="280" width="160" height="76" fill="#edf1ec" stroke="#b4bdb7" stroke-width="1.5"/>
+<text x="1020" y="329" font-size="29" font-weight="700" fill="#202c26" text-anchor="middle">C1</text>
+<rect x="940" y="435" width="160" height="76" fill="#edf1ec" stroke="#b4bdb7" stroke-width="1.5"/>
+<text x="1020" y="484" font-size="29" font-weight="700" fill="#202c26" text-anchor="middle">C2</text>
+<text x="32" y="566" font-size="23" font-weight="700" fill="#202c26" text-anchor="start">Creator-approved transitions constrain the available paths.</text>
+<rect x="32" y="600" width="552" height="112" fill="#ffffff" stroke="#b4bdb7" stroke-width="1.5"/>
+<text x="56" y="641" font-size="23" font-weight="700" fill="#202c26" text-anchor="start">Seed S1</text>
+<text x="56" y="682" font-size="27" font-weight="700" fill="#335e4e" text-anchor="start">A1 → B1 → C1</text>
+<rect x="616" y="600" width="552" height="112" fill="#ffffff" stroke="#b4bdb7" stroke-width="1.5"/>
+<text x="640" y="641" font-size="23" font-weight="700" fill="#202c26" text-anchor="start">Seed S2</text>
+<text x="640" y="682" font-size="27" font-weight="700" fill="#335e4e" text-anchor="start">A2 → B2 → C2</text>
+<text x="32" y="758" font-size="24" font-weight="700" fill="#202c26" text-anchor="start">Same manifest + same seed = same path.</text>
+<text x="32" y="793" font-size="21" font-weight="400" fill="#52645b" text-anchor="start">Finite combinations; this example does not promise a repetition-free history.</text>
+<rect x="32" y="839" width="552" height="130" fill="#ffffff" stroke="#b4bdb7" stroke-width="1.5"/>
+<text x="56" y="885" font-size="27" font-weight="700" fill="#202c26" text-anchor="start">Web player</text>
+<text x="56" y="929" font-size="22" font-weight="400" fill="#202c26" text-anchor="start">Play one selected path.</text>
+<rect x="616" y="839" width="552" height="130" fill="#ffffff" stroke="#b4bdb7" stroke-width="1.5"/>
+<text x="640" y="885" font-size="27" font-weight="700" fill="#202c26" text-anchor="start">Bounded export</text>
+<text x="640" y="929" font-size="22" font-weight="400" fill="#202c26" text-anchor="start">Produce a limited batch of variants.</text>
+<text x="32" y="1016" font-size="20" font-weight="400" fill="#52645b" text-anchor="start">Explanatory diagram; not evidence of device compatibility or product acceptance.</text>
+</g>
+</svg>
